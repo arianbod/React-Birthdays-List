@@ -71,6 +71,7 @@ body {
   font-weight: 400;
   line-height: 1;
   color: var(--textColor);
+  
 }
 p {
   margin: 0;
@@ -275,7 +276,7 @@ main {
   /* border: 2px solid red; */
   width: 90vw;
   max-width: var(--fixed-width);
-  margin: 5rem 0;
+  margin: 5rem auto;
   background: var(--white);
   border-radius: var(--borderRadius);
   padding: 1.5rem 2rem;
